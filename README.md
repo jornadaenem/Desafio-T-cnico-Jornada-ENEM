@@ -43,9 +43,7 @@ Tabela `User` com os campos:
 
 ## 🐳 Docker
 O projeto deve conter um `docker-compose.yml` que rode:
-- API NestJS
 - PostgreSQL
-- Migrations automáticas (`npx prisma migrate deploy`)
 
 ---
 
