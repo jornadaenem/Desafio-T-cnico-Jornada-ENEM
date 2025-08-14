@@ -55,6 +55,3 @@ O projeto deve conter um `docker-compose.yml` que rode:
 - Módulos bem separados (`AuthModule`, `UserModule`, etc.)
 - Variáveis de ambiente via `.env`
 
-
-# Acessar API
-http://localhost:3000
